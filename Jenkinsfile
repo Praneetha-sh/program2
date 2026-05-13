@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'pannu27/Dockerimage'
+        IMAGE_NAME = 'pannu27/dockerimage'
     }
 
     stages {
